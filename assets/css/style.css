@@ -208,5 +208,18 @@ h2 {
 
     #connect {
       width: 580px;
+      margin-bottom: 20px;
+    }
+
+    h1 {
+      width: 640px;
+    }
+
+    .topnav {
+      float: none;
+    }
+
+    footer {
+      margin: 20px auto;
     }
   }
